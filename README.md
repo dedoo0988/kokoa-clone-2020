@@ -2,4 +2,4 @@
 
 CSS got so much better
 
-Try exercise!
+Try exercise
